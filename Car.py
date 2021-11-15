@@ -31,6 +31,7 @@ class Car:
 
 
 print("Eres un crack")
+print("Mañana empiezas el curro")
 
 if __name__ == '__main__':
 
